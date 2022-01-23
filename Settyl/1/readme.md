@@ -1,0 +1,1 @@
+.env file is given intentionally to perform crud operation on db
