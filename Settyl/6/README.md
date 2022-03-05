@@ -1,1 +1,1 @@
-## Q6: Create a Dashboard using ReactJS/ChartJS +Nodejs, intrepret your datas in any chart (Bar diagram/ Piechart or anything else)
+## A graph UI that shows the total covid cases came in a state for a specific data. Data is coming from "https://data.covid19india.org/v4/min/data.min.json".
